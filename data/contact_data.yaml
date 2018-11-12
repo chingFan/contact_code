@@ -1,0 +1,13 @@
+test_contact:
+  test_contact_01:
+    name: "yyl"
+    tel: "18888888888"
+  test_contact_02:
+    name: "wz"
+    tel: "17777777777"
+  test_contact_03:
+    name: "cyr"
+    tel: "16666666666"
+  test_contact_04:
+    name: "wdc"
+    tel: "19999999999"
